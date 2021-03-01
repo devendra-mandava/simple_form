@@ -1,0 +1,52 @@
+.connect{
+    border :10px ridge rgb(105, 93, 93);
+    background-color: rgba(51, 196, 58, 0.822);
+    padding-left: 3px;
+    padding-right: 3px;
+    padding-bottom: 2px;
+    width: 500px;
+}
+div{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#tab,#tab td, #tab th {
+    border: 1px solid rgb(5, 1, 1);
+    border-collapse: collapse;
+    border-width: 2px;
+    padding: 5px;
+  
+    }
+    tr:nth-child(even) {
+        background-color: rgba(51, 196, 58, 0.822);
+      }
+    .fa-linkedin { 
+        padding: 3px; 
+      background: #007bb5;  
+      color: white;  
+      text-decoration: none;
+    }  
+    .fa-hackerank{
+        padding: 3px;
+        background:black;
+        color: green;
+        text-decoration: none;
+    }
+    h5{
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    
+    body{
+        background-color: rgb(171, 226, 171);
+    }
+    img{
+        border-radius: 50%;
+        width: 200px;
+
+    }
+    .sub{
+        text-align: center;
+    }
+   
+    
